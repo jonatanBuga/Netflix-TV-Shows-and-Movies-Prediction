@@ -37,10 +37,10 @@ To assess the performance of our classification models accurately, we will split
 
 For the prediction phase, we will implement several classification models, such as:
 
-- Logistic Regression
+- DecisionTree classification
 - Random Forest
-- Support Vector Machines (SVM)
-- Neural Networks (Deep Learning)
+- KNN Model (SVM)
+- K-MEANS
 
 We will use popular libraries like scikit-learn, TensorFlow, or PyTorch to build, train, and test these models. After training the models, we will evaluate their performance using appropriate metrics such as accuracy, precision, recall, and F1 score.
 
