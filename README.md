@@ -39,7 +39,7 @@ For the prediction phase, we will implement several classification models, such 
 
 - DecisionTree classification
 - Random Forest
-- KNN Model (SVM)
+- KNN Model 
 - K-MEANS
 
 We will use popular libraries like scikit-learn, TensorFlow, or PyTorch to build, train, and test these models. After training the models, we will evaluate their performance using appropriate metrics such as accuracy, precision, recall, and F1 score.
